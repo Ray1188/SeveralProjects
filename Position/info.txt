@@ -23,3 +23,4 @@ position:relative,position:absolute,position:fixed и position:sticky (только top
 —войство: z-index
 ”правл€ет наложением друг на друга элементов с
 параметрами position:relative,position:absolute,position:fixed по оси Z
+jjlkjk;k
